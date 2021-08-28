@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.xuhongyuan2014.demoidea.services
 
+import com.github.xuhongyuan2014.demoidea.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
